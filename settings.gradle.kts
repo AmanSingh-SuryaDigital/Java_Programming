@@ -1,1 +1,1 @@
-rootProject.name = "AmanCode-2"
+rootProject.name = "JavaPrograming-2"
